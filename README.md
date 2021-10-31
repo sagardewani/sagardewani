@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagardewani
-- 👀 I’m interested in developing Apps, websites, blockchain based smart contracts, exploring tech word, accepting challenged, and reaching new heights.
+- 👀 I’m interested in developing Apps, websites, blockchain based smart contracts, exploring tech world, accepting challenged, and reaching new heights.
 - 🌱 I’m currently learning MERN, React Native, Elixir
 - 💞️ I’m looking to collaborate on emerging projects.
 - 📫 How to reach me just leave a message over sagar7930@gmail.com
